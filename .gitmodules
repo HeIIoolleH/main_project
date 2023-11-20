@@ -1,0 +1,7 @@
+[submodule "src/module/client-module"]
+	path = src/module/client-module
+	url = https://github.com/DEV-EQBR/client-module-test
+[submodule "src/module/test"]
+	path = src/module/test
+	url = https://github.com/HeIIoolleH/qwq
+	tag = 1.0.1
