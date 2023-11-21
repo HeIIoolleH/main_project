@@ -3,5 +3,5 @@
 	url = https://github.com/DEV-EQBR/client-module-test
 [submodule "src/module/test"]
 	path = src/module/test
-	url = https://github.com/HeIIoolleH/qwq
-	tag = 1.0.1
+	url = https://github.com/HeIIoolleH/sub_project
+	tag = v1.0.0
